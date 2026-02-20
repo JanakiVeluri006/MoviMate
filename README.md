@@ -66,6 +66,7 @@ go to `bash` and run:  python rebuild_model.py
 
 ---
 ▶️ How to Run the Project
+
 1️⃣ Clone the Repository
 `git clone https://github.com/JanakiVeluri006/MoviMate.git`
 `cd MoviMate`
